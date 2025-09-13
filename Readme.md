@@ -32,7 +32,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** chatbot built with **
 git clone https://github.com/NikaL25/rag-chatbot-flan-t5.git
 cd rag-chatbot-flan-t5
 
-
+```
 
 
 2. Set Up Environment
